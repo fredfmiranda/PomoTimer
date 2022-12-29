@@ -3,7 +3,7 @@ import { HistoryContainer, HistoryList, Status } from './styles'
 export function Historia() {
   return (
     <HistoryContainer>
-      <h1>Meu histórico</h1>
+      <h1>Meu históricos</h1>
       <HistoryList>
         <table>
           <thead>
